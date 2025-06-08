@@ -1,4 +1,4 @@
-# Task-8# Task 8: VPN Setup and Privacy Exploration
+# Task 8: VPN Setup and Privacy Exploration
 
 ## 🎯 Objective
 To understand how VPNs protect user privacy and secure internet connections through hands-on setup and testing of a free VPN client.
